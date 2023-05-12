@@ -1,1 +1,1 @@
-# Waste-maanagemt-system
+# Waste-Management-System
